@@ -1,9 +1,0 @@
-XD Pistol & Attachments
----
-For this project I primarily followed the workflow and knowledge of Eugene Petrov, the Lead Weapon artist at Infinity Ward, through his tutorial to create the Springfield XD Sub Compact Pistol. On top of this I created additional texture variants, supressor and weapon flashlight attachments to solidify the knowledge gained throughout the process of creating the gun itself.
----
-Blender, ZBrush, Substance Painter, Photoshop, Marmoset
----
-XD_Thumbnail.jpg
----
-XDPistol.html

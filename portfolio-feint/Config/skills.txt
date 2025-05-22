@@ -1,9 +1,0 @@
-3D Modelling
-High Poly Modelling
-Retopology
-Texturing
-UV-Unwrapping
-Sculpting Damage Passes
-Weapon Modelling
-Modelling To Concept
-Tileable Materials
