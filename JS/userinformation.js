@@ -2,9 +2,9 @@ function addUserInformation() {
     // Determine the base path dynamically
     let basePath = '';
     if (window.location.pathname.includes('/Projects/')) {
-        basePath = '../../Config/userinformation.txt';
+        basePath = 'Config/userinformation.txt';
     } else if (window.location.pathname.includes('/HTML/')) {
-        basePath = '../Config/userinformation.txt';
+        basePath = 'Config/userinformation.txt';
     } else {
         basePath = 'Config/userinformation.txt'; // Default case if in root or unexpected location
     }
@@ -34,7 +34,7 @@ function addUserInformation() {
 
             // Create and append the user name as a link
             const userNameLink = document.createElement("a");
-            userNameLink.href = "../../index.html";
+            userNameLink.href = "index.html";
             userNameLink.className = "user-name-link";
 
             const userName = document.createElement("h1");
