@@ -361,10 +361,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const newProject = projects[newIndex];
             try {
-                const response = await fetch(`../${newProject}/description.txt`);
+                const response = await fetch(`${newProject}/description.txt`);
                 const text = await response.text();
                 const htmlFileName = text.split('---')[4].trim(); // Extract the HTML filename from the description.txt
-                window.location.href = `../${newProject}/${htmlFileName}`;
+                window.location.href = `${newProject}/${htmlFileName}`;
             } catch (error) {
                 console.error('Error loading next project description:', error);
             }
