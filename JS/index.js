@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     try {
-        const response = await fetch('Config/showreels.txt');
+        const response = await fetch('../Config/showreels.txt');
         if (!response.ok) {
             throw new Error(`Network response was not ok: ${response.statusText}`);
         }
