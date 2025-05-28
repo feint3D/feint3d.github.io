@@ -6,6 +6,6 @@ Throughout the project I improved my speed with the ZBrush Polish workflow, tack
 ---
 Blender, ZBrush, Substance Painter, Photoshop, Marmoset, RizomUV, Unity
 ---
-SVD_Thumbnail.jpg
+SVD_Thumbnail.png
 ---
 MilitaryDragunovSVD.html
