@@ -1,6 +1,6 @@
 Triangles: 61k
 
-Materials: 4 (Receiver, muzzle, trigger, bolt carrier, front sight / Wooden stock, barrel, cheek rest, iron sight / Magazin + Bullet / PSO-1 Scope / Bipod)
+Materials: 5 (Receiver, muzzle, trigger, bolt carrier, front sight > Wooden stock, barrel, cheek rest, iron sight > Magazin + Bullet > PSO-1 Scope > Bipod)
 
 Texture Size: 3x 4x Maps, 2x 2k Maps
 
