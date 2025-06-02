@@ -5,18 +5,18 @@
 BA (Hons) 3D Game Art
 Buckinghamshire New University
 Sept 2022 - June 2025
-https://productionimage.jpg 
-During my time with my studies I had to time to develop my skills within multiple different disciplines including: 3D Modelling, Retopology, UV Unwrapping, Texturing, Sculpting, XGen Hair creation, Houdini Destruction, Rigging & Creating Game Environments (Unreal Engine)
+BNU_Logo.png
+During my time with my studies I developed my skills within multiple different disciplines including: 3D Modelling, Retopology, UV Unwrapping, Texturing, Sculpting, XGen Hair creation, Houdini Destruction, Rigging & Creating Game Environments (Unreal Engine)
 ---
 BWMod
 Arma 3
 TBC - TBC
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+BWMOD_Logo.png
+Collaborating with the BWMod team to provide game-ready meshes ready for animation and optimised for the first person POV.
 ---
 Game Jam 2025
 Buckinghamshire New University
 Jan 2025
-https://productionimage.jpg 
-I collaborated with a team of 7 students to generate a game concept and provide game-ready assets to the team through multiple short sprints which were then implemented into Unity.
+GGJ_Logo.png
+I collaborated with a team of 7 students to generate a game concept and provide game-ready assets to the team through multiple short sprints which were then implemented into Unity for the final game.
 ---
