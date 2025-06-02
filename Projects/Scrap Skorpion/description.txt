@@ -1,11 +1,9 @@
-Military Dragunov
+Scrap Skorpion
 ---
-This marksman rifle has always stood out to me and so I decided to create it for a 3rd year University assignment. Despite there being multiple variants of the SVD I decided to stick with the military version to give it a history through damaged textures and some subtle sculpted dents. This project 
-
-Throughout the project I improved my speed with the ZBrush Polish workflow, tackling some complex shapes and learning to create highly efficient UVs as well as increasing texel density through mirrored UVs on areas that don't need unique details. I sped up my UV unwrapping workflow tenfold through the use of some specific keybinds and ZenUV tools.
+I came across an image of this scrap metal recreation of the Skorpion SMG and instantly knew I wanted to recreate it as in 3D. I made a few design changes to make it a functional weapon and fit into a desolate post-apocalyptic setting.
 ---
-Blender, ZBrush, Substance Painter, Photoshop, Marmoset, RizomUV, Unity
+Blender, ZBrush, Substance Painter, Photoshop, Marmoset
 ---
-SVD_Thumbnail.png
+ScrapSkorpion_Thumbnail.png
 ---
-MilitaryDragunovSVD.html
+ScrapSkorpion.html
