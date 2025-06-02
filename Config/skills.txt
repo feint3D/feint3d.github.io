@@ -3,7 +3,7 @@ High Poly Modelling
 Retopology
 Texturing
 UV-Unwrapping
-Sculpting Damage Passes
+Sculpting
 Weapon Modelling
 Modelling To Concept
 Tileable Materials
