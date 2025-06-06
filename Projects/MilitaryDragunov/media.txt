@@ -6,6 +6,8 @@ Max-Trim-SVD-2.png
 
 Max-Trim-SVD-3.png
 
+`Max-Trim-SVD-Wireframe.png // Max-Trim-SVD-UVChecker.png`
+
 https://sketchfab.com/3d-models/military-dragunov-svd-df8fb308c3be414ba78ba1844d0ab0c6
 
 Max-Trim-SVD-4.png
