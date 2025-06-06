@@ -2,6 +2,7 @@
 High Poly Modelling
 Retopology
 Texturing
+Hand-Painted Texturing
 UV-Unwrapping
 Sculpting
 Weapon Modelling
