@@ -1,9 +1,9 @@
-Makeshift Crossbow
+MakeshiftCrossbow
 ---
-For this project I worked to bring Sanchit Chaudhary's makeshift crossbow concept to life in 3D.
+Concept by Sanchit Chaudhary
 ---
-Blender, ZBrush, Substance Painter, Photoshop, Marmoset, Unity
+Blender, ZBrush, Substance Painter, Marvelous Designer, Photoshop, Marmoset
 ---
 MakeshiftCrossbow_Thumbnail.jpg
 ---
-MakeshiftCrossbow.html
+MakeshiftCrossbow

@@ -1,9 +1,13 @@
-Triangles: Xk
+Triangles: 
 
-Materials: 2
+Materials: 
 
-Texture Size: 2x 4k Maps
+Texture Size: 
 
-Texel Density: X px/cm Avg 
+Texel Density: 
 
-Workflow: PBR Metal/Rough
+Workflow: 
+
+Target Engine: 
+
+Collaborators:
