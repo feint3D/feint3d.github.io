@@ -1,4 +1,4 @@
-MakeshiftXbow
+MakeshiftCrossbow
 ScrapSkorpion
 MilitaryDragunov
 XDPistol
