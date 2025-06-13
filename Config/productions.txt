@@ -2,17 +2,17 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
+BWMod
+Arma 3 / Arma Reforger
+June 2025 - Present
+BWMOD_Logo.png
+Collaborating with the BWMod team to supply game-ready, textured meshes ready for animation and optimised for the Enfusion game engine and FPS POV.
+---
 BA (Hons) 3D Game Art
 Buckinghamshire New University
 Sept 2022 - June 2025
 BNU_Logo.png
 During my time with my studies I developed my skills within multiple different disciplines including: 3D Modelling, Retopology, UV Unwrapping, Texturing, Sculpting, XGen Hair creation, Houdini Destruction, Rigging & Creating Game Environments (Unreal Engine).
----
-BWMod
-Arma 3
-June 2025 - Present
-BWMOD_Logo.png
-Collaborating with the BWMod team to supply game-ready, textured meshes ready for animation and optimised for the Enfusion game engine and FPS POV.
 ---
 Game Jam 2025
 Buckinghamshire New University
