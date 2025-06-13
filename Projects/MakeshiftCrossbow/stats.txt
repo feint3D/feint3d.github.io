@@ -1,13 +1,7 @@
-Triangles: 
+Triangles: 45k
 
-Materials: 
+Materials: 2x
 
-Texture Size: 
+Texture Size: 2x 4k
 
-Texel Density: 
-
-Workflow: 
-
-Target Engine: 
-
-Collaborators:
+Texel Density: 81.9 Avg tx/cm
