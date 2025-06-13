@@ -2,7 +2,7 @@ Triangles: 43k
 
 Materials: 1
 
-Texture Size: 4k Map
+Texture Size: 1x 4k Map
 
 Texel Density: 98.2 px/cm Avg 
 
