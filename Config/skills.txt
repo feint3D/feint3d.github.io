@@ -1,10 +1,12 @@
 3D Modelling
 High Poly Modelling
+Weapon Modelling
 Retopology
+Sculpting
+UV-Unwrapping
 Texturing
 Hand-Painted Texturing
-UV-Unwrapping
-Sculpting
-Weapon Modelling
-Modelling To Concept
+Procedural Texturing
 Tileable Materials
+
+Modelling To Concept
