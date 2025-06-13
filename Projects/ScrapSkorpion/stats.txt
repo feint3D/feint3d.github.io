@@ -1,4 +1,4 @@
-Triangles: 43k
+Triangles: 43k (Heavy topology on screw & coil spring for silhouette, needs LODs for game usage)
 
 Materials: 1
 
