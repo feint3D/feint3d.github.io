@@ -4,7 +4,7 @@
 ---
 BWMod
 Arma 3 / Arma Reforger
-June 2025 - Present
+May 2025 - Present
 BWMOD_Logo.png
 Collaborating with the BWMod team to supply game-ready, textured meshes ready for animation and optimised for the Enfusion game engine and FPS POV.
 ---
