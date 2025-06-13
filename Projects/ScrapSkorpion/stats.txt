@@ -1,9 +1,9 @@
-Triangles: 61k
+Triangles: 43k
 
-Materials: 5 (Receiver, muzzle, trigger, bolt carrier, front sight > Wooden stock, barrel, cheek rest, iron sight > Magazine + Bullet > PSO-1 Scope > Bipod)
+Materials: 1
 
-Texture Size: 3x 4k Maps, 2x 2k Maps
+Texture Size: 4k Map
 
-Texel Density: 101 px/cm Avg 
+Texel Density: 98.2 px/cm Avg 
 
 Workflow: PBR Metal/Rough
