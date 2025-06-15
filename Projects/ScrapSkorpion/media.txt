@@ -1,4 +1,7 @@
 ScrapSkorpion-1.png
-ScrapSkorpion-2.png
+ScrapSkorpion-2-before.png // ScrapSkorpion-2-after.png
+ScrapSkorpion-ref.png
 ScrapSkorpion-3.png
 ScrapSkorpion-4.png
+ScrapSkorpion-5-before.png // ScrapSkorpion-5-after.png
+ScrapSkorpion-6.png

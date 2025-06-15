@@ -1,6 +1,6 @@
 Scrap Skorpion
 ---
-I came across an image of this scrap metal recreation of the Skorpion SMG on Pinterest and instantly knew I wanted to recreate it in 3D. I made a few design changes to make it a functional weapon and fit into a post-apocalyptic setting, including internals.
+I came across an image of this scrap metal recreation of the Skorpion SMG on Pinterest and instantly wanted to recreate it in 3D. I made a few design changes to make it a functional weapon and fit into a post-apocalyptic setting, for example a mag release screw, mag spring, makeshift irons and internals.
 ---
 Blender, ZBrush, Substance Painter, Photoshop, Marmoset
 ---
