@@ -1,6 +1,6 @@
 Triangles: 22.9k
 
-Materials: 3 (XD Pistol, Weapon Flashlight, Banshee Silencer)
+Materials: 3 (XD Pistol, TLR7-X Weapon Flashlight, Hush Silencer)
 
 Texture Size: 1x 4k Map, 2x 2k Maps
 
