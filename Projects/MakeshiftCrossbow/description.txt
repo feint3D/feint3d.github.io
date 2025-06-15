@@ -4,6 +4,6 @@ This project was to practise my ability to follow concepts, this was designed by
 ---
 Blender, ZBrush, Substance Painter, Marvelous Designer, Photoshop, Marmoset
 ---
-MakeshiftCrossbow_Thumb.png
+MakeshiftCrossbow_Thumbnail.png
 ---
 MakeshiftCrossbow.html
