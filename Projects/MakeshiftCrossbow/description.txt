@@ -1,4 +1,4 @@
-MakeshiftCrossbow
+Makeshift Crossbow
 ---
 This project was to practise my ability to follow concepts, this was designed by Sanchit Chaudhary - while I followed faithfully for the most part, I decided to add a rebar arrow variant and the batteries attached to the flashlight.
 ---
