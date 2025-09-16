@@ -2,11 +2,11 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Wardog Studios
 Junior 3D Artist
+Wardog Studios
 October 2025 - Present
 Wardog_Logo.png
-Starting from October 2025 I will be working with the team to provide high quality 3D assets to clients and working to continually improve my skills in all avenues.
+Starting from October 2025 I will be working with the team to provide high quality 3D assets, primarily weapons, to clients and working to continually improve my skills in all avenues.
 ---
 BA (Hons) 3D Game Art
 Buckinghamshire New University
