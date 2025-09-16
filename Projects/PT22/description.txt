@@ -8,6 +8,6 @@ A trusty pocket pistol which has been personalised with aftermarket pieces and e
 ---
 Blender, ZBrush, Substance Painter, Substance Designer, Photoshop, Marmoset
 ---
-PT22Thumbnail.png
+PT22_Thumbnail.png
 ---
 PT22.html
