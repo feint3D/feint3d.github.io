@@ -1,9 +1,9 @@
-Triangles: 61k
+Triangles: 20.9k
 
-Materials: 5 (2x SVD > 1x PSO-1 Scope > 1x Mag & Bullet > 1x Bipod)
+Materials: 2 (PT22 + Mag & Bullet)
 
-Texture Size: 3x 4k Maps > 2x 2k Maps
+Texture Size: 1x 2k Map, 1x 1k Map
 
-Texel Density: 101 px/cm Avg 
+Texel Density: 101 tx/cm Avg 
 
-Workflow: PBR Metal/Rough
+Workflow: PBR Spec/Gloss

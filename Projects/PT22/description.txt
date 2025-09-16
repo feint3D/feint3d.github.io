@@ -1,12 +1,13 @@
-Military Dragunov
+PT22 Pocket Pistol
 ---
-I have always loved the design of this marksman rifle, so I decided to create it for a 3rd year University assignment. Despite there being multiple variants of the SVD I decided to stick with the military version to give it a history through usage of damaged textures and some subtle sculpted dents.
+A trusty pocket pistol which has been personalised with aftermarket pieces and extra touches. In this project I used a new workflow and bunch of cool new techniques I learnt through a recent art test and worked with spec/gloss for practise. Thanks to those who helped throughout this project!
 
-Throughout the project I improved my speed with the ZBrush Polish workflow, tackling some complex shapes and learning to create highly efficient UVs as well as increasing texel density through mirrored UVs on areas that did not need unique details. I sped up my UV unwrapping workflow tenfold through the use of some specific keybinds and ZenUV tools.
-https://www.youtube.com/watch?v=IBfYbvEj5MA&ab_channel=ArtofPilgrim
+20,893 Tris
+1x 2k Map (PT22) - 116.2 tx/cm
+1x 1k Map (Magazine & Bullet) - 85.7 tx/cm 
 ---
-Blender, ZBrush, Substance Painter, Photoshop, Marmoset, RizomUV, Unity
+Blender, ZBrush, Substance Painter, Substance Designer, Photoshop, Marmoset
 ---
-SVD_Thumbnail.png
+PT22Thumbnail.png
 ---
-MilitaryDragunovSVD.html
+PT22.html

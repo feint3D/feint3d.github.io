@@ -2,11 +2,11 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-BWMod
-Arma 3 / Arma Reforger
-May 2025 - Present
-BWMOD_Logo.png
-Collaborating with the BWMod team to supply game-ready, textured meshes ready for animation and optimised for the Enfusion game engine and FPS POV.
+Wardog Studios
+Junior 3D Artist
+October 2025 - Present
+Wardog_Logo.png
+Starting from October 2025 I will be working with the team to provide high quality 3D assets to clients and working to continually improve my skills in all avenues.
 ---
 BA (Hons) 3D Game Art
 Buckinghamshire New University
